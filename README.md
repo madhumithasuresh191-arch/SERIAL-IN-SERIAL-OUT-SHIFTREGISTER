@@ -1,5 +1,6 @@
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
-
+## Name: S Madhumitha
+## Reg No: 212225040217
 **AIM:**
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
@@ -36,7 +37,10 @@ Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR SISO Shift Register**
+<img width="489" height="303" alt="Screenshot 2026-05-22 135535" src="https://github.com/user-attachments/assets/d31f6c43-dd95-426b-98c7-7b534bb86e93" />
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+<img width="1865" height="845" alt="Screenshot 2026-05-22 135552" src="https://github.com/user-attachments/assets/5c8b3ebb-4aa6-4bc4-8afd-c53ca0a54e95" />
 
 **RESULTS**
+The program was executed successfully
